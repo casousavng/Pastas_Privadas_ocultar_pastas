@@ -1,0 +1,129 @@
+
+TITULO - PAGINA PRINCIPAL
+
+echo.
+echo      ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo      К                                                                             К
+echo      К                             PASTAS PRIVADAS v1.0                            К
+echo      К                                                                             К
+echo      ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo     кФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФП
+echo.    Г                                                                               Г
+echo     Г Este programa permite criar uma pasta denominada "Pasta Privada" e oculta-la  Г
+echo     Г de terceiros estando apenas acessivel inserindo a respectiva Password.        Г
+echo.    Г                                                                               Г
+echo     Г COMO UTILIZAR:                                                                Г
+echo.    Г                                                                               Г
+echo     Г  1 - Copiar este executavel para a pasta onde tem os arquivos a ocultar.      Г
+echo     Г  2 - Clicar no executavel.                                                    Г
+echo     Г  3 - Sera criada uma sub-pasta na pasta de origem com o nome "Pasta_Privada". Г
+echo     Г  4 - Mova todos os ficheiros que pretende ocultar para essa pasta.            Г
+echo     Г  5 - Corra novamente o executavel e responda afirmativamente a                Г
+echo     Г      questao apresentada.                                                    Г
+echo     Г  6 - Ja esta. A SUA PASTA PRIVADA ESTA ESCONDIDA E PROTEGIDA.                 Г
+echo.    Г                                                                               Г
+echo     Г !ATENCAO! Nao deve nunca mudar o nome da pasta senao o programa nao funciona. Г
+echo     Г           Pode mudar o nome do executavel para o nome que quiser.             Г
+echo     Г           Pode ser usado diversas vezes desde que copiado para a pasta        Г
+echo     Г           escolhida e renomeado.                                              Г
+echo.    Г                                                                               Г
+echo     Г Para voltar a aceder a "Pasta Privada" basta correr o executavel, inserir a   Г
+echo     Г Password e a pasta ficara visivel e desprotegida.                             Г
+echo.    Г                                                                               Г
+echo     РФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФй
+echo      ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo      К                               SOFTWARE  LIVRE                               К
+echo      ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo         ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo         Г                        PASSWORD REGISTADA PARA                        Г
+echo         Г                          CARLOS ANDRE SOUSA                           Г
+echo         Г                           DESDE 15/09/2009                            Г
+echo         Г                             USO PESSOAL                               Г
+echo         Г                      CARLOSSOUSA1987@HOTMAIL.COM                      Г
+echo         ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+pause
+
+
+PAGINA OCULTACAO
+
+echo.
+echo     ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     Кллллллллллллллл                                                 лллллллллллллллК
+echo     Кллллллллллллллл   PRETENDE TORNAR A PASTA OCULTA E PROTEGIDA?   лллллллллллллллК
+echo     Кллллллллллллллл                                                 лллллллллллллллК
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo.
+echo          ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo          Г OPCOES                                                              Г
+echo          Г                                                                     Г
+echo          Г SIM - Oculta a "Pasta Privada" e todos os ficheiros nela contidos.  Г
+echo          Г NAO - Mantem a "Pasta Privada" visivel e sai do programa.           Г
+echo          ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo.
+
+echo      ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo      К                      PASTA PRIVADA PROTEGIDA COM SUCESSO                    К
+echo      ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+
+echo          ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo          Г  Solicite por email o seu Registo e a sua Password para poder usar  Г
+echo          Г  este software com maior seguranca.                                 Г
+echo          Г                                                                     Г
+echo          Г                 e-mail: carlossousa1987@hotmail.com                 Г
+echo          ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo.
+
+
+PAGINA CRIACAODE PASTA PRIVADA
+
+echo.
+echo.
+echo     ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     Кллллллллллллллллллллллл                                    ллллллллллллллллллллК
+echo     Кллллллллллллллллллллллл  PASTA PRIVADA CRIADA COM SUCESSO  ллллллллллллллллллллК
+echo     Кллллллллллллллллллллллл                                    ллллллллллллллллллллК
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+
+
+PAGINA DE DESBLOQUEIO
+
+echo.
+echo     ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     Кллллллллллллллл                                                 лллллллллллллллК
+echo     Кллллллллллллллл    INSIRA A PASSWORD PARA DESBLOQUEAR A PASTA   лллллллллллллллК
+echo     Кллллллллллллллл                                                 лллллллллллллллК
+echo     КлллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллК
+echo     ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo.
+
+echo          ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo          Г Solicite por email a Password de Seguranca para poder aceder a sua  Г
+echo          Г pasta privada. Sera enviada o mais rapidamente possivel.            Г
+echo          Г                                                                     Г
+echo          Г                 e-mail: carlossousa1987@hotmail.com                 Г
+echo          ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+echo.
+
+echo      ЩЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЛ
+echo      К                    PASTA PRIVADA DESBLOQUEADA COM SUCESSO                   К
+echo      ШЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФФФФФФФФФФФФФФФЭМ
+
+
+PAGINA FINAL - ADRADECIMENTO
+
+echo.
+echo                    ЩЭФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФЭЛ
+echo                    К         OBRIGADO POR USAR O MEU SOFTWARE        К
+echo                    ШЭФФФФФФФФФФФФФФФФЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭФФФФФФФФФФФФФФФФЭМ
+echo.
+echo                             ESTA JANELA FECHA AUTOMATICAMENTE.
+
+
+

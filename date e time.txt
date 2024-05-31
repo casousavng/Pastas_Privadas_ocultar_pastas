@@ -1,0 +1,5 @@
+date /t
+time /t
+mostra data e hora sem a pergunta de alteração das messmas
+
+MODE 88,42 (88 corresponde a altura da janela)(42 corresponde a largura da janela)
