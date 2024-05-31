@@ -47,7 +47,7 @@ Desenvolvido com base na linha de comandos, este programa é ideal para uso comu
 
 ## Contato
 
-Para reportar bugs ou solicitar informações e registro, envie um e-mail para carlossousa1987@hotmail.com com o assunto: "Pastas Privadas v1.0 - Ajuda/Registo/Bug".
+Para reportar bugs ou solicitar informações e registro eu agradeço.
 
 Este software é freeware. Se fizer alguma edição, por favor, mantenha os créditos originais.
 
