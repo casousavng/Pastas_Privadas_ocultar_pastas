@@ -1,3 +1,5 @@
+Um dos meus primeiros porjetos de codigo pela linha de comandos no Windows. Util para ocultar pastas que não queremos visiveis aos outros utilizadores com acesso ao nosso login. Fiz para uso pessoal mas partilho pois pode substituir softwares mais pesados e desnecessarios para ocultar (a vista) documentos ou pastas.
+
 # PASTAS PRIVADA v1.0
 
 ## Descrição
