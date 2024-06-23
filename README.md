@@ -32,7 +32,7 @@ Desenvolvido com base na linha de comandos, este programa é ideal para uso comu
 **R**: Verifique a lixeira. Se os arquivos não estiverem lá, use um software de recuperação de dados.
 
 ### P: Posso compartilhar o programa com amigos?
-**R**: O programa é registrado para um único usuário. Para novos registros, peça para seu amigo enviar um e-mail com seus dados para carlossousa1987@hotmail.com.
+**R**: O programa é registrado para um único usuário.
 
 ### P: Posso renomear a "Pasta_Privada"?
 **R**: Não é recomendado. Se renomeada, o programa criará uma nova pasta. O executável pode ser renomeado.
@@ -49,7 +49,7 @@ Desenvolvido com base na linha de comandos, este programa é ideal para uso comu
 
 ## Contato
 
-Para reportar bugs ou solicitar informações e registro eu agradeço.
+Para reportar bugs ou solicitar informações e eu agradeço.
 
 Este software é freeware. Se fizer alguma edição, por favor, mantenha os créditos originais.
 
